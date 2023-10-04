@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     container: {
       center: true,
-      padding:'2rem',
+      padding: "2rem",
     },
 
     extend: {
@@ -19,13 +19,13 @@ module.exports = {
       },
 
       screens: {
-        '2xl': '1320px' ,
+        "2xl": "1320px",
       },
 
-      animation:{
-        'spin-slow': 'spin 3s linear infinite',
-        'bounce-fast': 'bounce 0.9s linear infinite',
-      }
+      animation: {
+        "spin-slow": "spin 3s linear infinite",
+        "bounce-fast": "bounce 0.9s linear infinite",
+      },
     },
   },
   plugins: [],
